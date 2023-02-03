@@ -1,0 +1,26 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url("image/ar3.jpg");
+}
+.titre{
+    text-align: center;
+    color: rgb(252, 3, 3);
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #05ff9f;
+    color: red;
+}
+ul{
+    text-decoration-color: beige;
+}
+.ch1{
+    background-color: aquamarine;
+}
+#pied_page{
+    background-color: azure;
+}
+a{
+    text-decoration: none;
+}
